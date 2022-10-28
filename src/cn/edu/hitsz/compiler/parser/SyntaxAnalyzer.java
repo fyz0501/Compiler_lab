@@ -28,7 +28,7 @@ public class SyntaxAnalyzer {
     private List<Term> token_stack = new ArrayList<>();
     private int ts_pointer = 0;
 
-
+    /**输入的Token串**/
     private List<Token> token_Array;
     private int token_pointer = 0;
 

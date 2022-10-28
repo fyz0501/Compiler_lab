@@ -8,7 +8,7 @@ package cn.edu.hitsz.compiler.ir;
  * <br>
  * IR 变量的等价性由 name 唯一确定.
  */
-public class IRVariable implements IRValue {
+public class IRVariable implements  IRValue {
     /**
      * @param name 源语言中变量的名字
      * @return 一个对应于源语言中具体变量的 IRVariable

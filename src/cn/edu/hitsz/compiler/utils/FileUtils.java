@@ -1,5 +1,7 @@
 package cn.edu.hitsz.compiler.utils;
 
+import cn.edu.hitsz.compiler.asm.Assembly;
+
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.FileAlreadyExistsException;
